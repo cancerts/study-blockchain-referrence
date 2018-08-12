@@ -1,6 +1,7 @@
 <div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/Go语言圣经/01.jpg" /></div>
-****
-# 目录：go语言圣经
+
+# 目录：[go语言圣经]()
+
 * [前言](https://github.com/yar999/gopl-zh/blob/master/preface.md)
   * [Go语言起源](https://github.com/yar999/gopl-zh/blob/master/ch0/ch0-01.md)
   * [Go语言项目](https://github.com/yar999/gopl-zh/blob/master/ch0/ch0-02.md)
