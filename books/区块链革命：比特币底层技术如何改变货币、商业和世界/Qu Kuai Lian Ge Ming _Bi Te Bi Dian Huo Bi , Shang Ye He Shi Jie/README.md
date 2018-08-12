@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链革命：比特币底层技术如何改变货币、商业和世界/Qu Kuai Lian Ge Ming _Bi Te Bi Dian Huo Bi , Shang Ye He Shi Jie/Qu Kuai Lian Ge Ming _Bi Te Bi Di Ceng Ji Zhu Ru He Gai B]Tang Ta Pu Si Ke Te & [Jia ]Ya Li Ke Si _Ta Pu Si Ke Te.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链革命：比特币底层技术如何改变货币、商业和世界/Qu Kuai Lian Ge Ming _Bi Te Bi Dian Huo Bi , Shang Ye He Shi Jie/01.jpg" /></div>

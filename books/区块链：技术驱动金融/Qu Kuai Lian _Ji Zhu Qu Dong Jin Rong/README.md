@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：技术驱动金融/Qu Kuai Lian _Ji Zhu Qu Dong Jin Rong/Qu Kuai Lian _Ji Zhu Qu Dong Jin Rong - [Mei ] A Er Wen De _Na La Ya Nan & Yue Shi _Bei Nu Deng.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：技术驱动金融/Qu Kuai Lian _Ji Zhu Qu Dong Jin Rong/01.jpg" /></div>

@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链技术指南(邹均)/Qu Kuai Lian Ji Zhu Zhi Nan - Zou Jun.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链技术指南(邹均)/01.jpg" /></div>

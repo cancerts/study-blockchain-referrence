@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链 重塑经济与世界/Qu Kuai Lian _ Zhong Su Jing Ji Yu Shi Jie (Wan Zheng Tu Wen Ban ) - Xu Ming Xing Deng.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链 重塑经济与世界/01.jpg" /></div>

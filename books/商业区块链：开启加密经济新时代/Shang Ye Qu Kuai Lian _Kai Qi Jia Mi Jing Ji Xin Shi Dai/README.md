@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/商业区块链：开启加密经济新时代/Shang Ye Qu Kuai Lian _Kai Qi Jia Mi Jing Ji Xin Shi Dai/Shang Ye Qu Kuai Lian _Kai Qi Jia Mi Jing Ji Xin Shi Dai - Wei Lian _Mu Jia Ya.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/商业区块链：开启加密经济新时代/Shang Ye Qu Kuai Lian _Kai Qi Jia Mi Jing Ji Xin Shi Dai/01.jpg" /></div>

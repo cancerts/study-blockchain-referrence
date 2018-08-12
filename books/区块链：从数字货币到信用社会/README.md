@@ -1,1 +1,1 @@
-<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：从数字货币到信用社会/Qu Kuai Lian _Cong Shu Zi Huo Bi Dao Xin Yong She Hui - Chang Jia Han Feng Deng.jpg" /></div>
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：从数字货币到信用社会/01.jpg" /></div>
