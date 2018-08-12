@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链社会：解码区块链全球应用与投资案例/Qu Kuai Lian She Hui _Jie Ma Qu Kuai Lian Quan Qiu Ying Yong Yu Tou Zi An Li/Qu Kuai Lian She Hui _Jie Ma Qu Kuai Lian Quan Qiu Ying Yong Yu Tou Zi An Li - Gong Ming.jpg" /></div>

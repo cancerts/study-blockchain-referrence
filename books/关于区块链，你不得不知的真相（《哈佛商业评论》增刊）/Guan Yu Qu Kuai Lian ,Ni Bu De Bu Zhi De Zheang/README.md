@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/关于区块链，你不得不知的真相（《哈佛商业评论》增刊）/Guan Yu Qu Kuai Lian ,Ni Bu De Bu Zhi De Zheang/Guan Yu Qu Kuai Lian ,Ni Bu De Bu Zhi De Zheang.jpg" /></div>

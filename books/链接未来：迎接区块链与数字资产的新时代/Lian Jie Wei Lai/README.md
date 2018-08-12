@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/链接未来：迎接区块链与数字资产的新时代/Lian Jie Wei Lai/Lian Jie Wei Lai _Ying Jie Qu Kuai Lian Yu Shu Zi Zi Chan De Xinu Zi Jing Zhu Bian ,Cheng Jian Bo & Wei Jiu Sheng & Chang Hao.jpg" /></div>

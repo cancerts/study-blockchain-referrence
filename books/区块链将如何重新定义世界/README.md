@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链将如何重新定义世界/Qu Kuai Lian Jiang Ru He Zhong Xin Ding Yi Shi Jie - Tang Wen Jian.jpg" /></div>

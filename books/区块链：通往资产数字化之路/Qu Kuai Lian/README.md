@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：通往资产数字化之路/Qu Kuai Lian/Qu Kuai Lian.jpg" /></div>

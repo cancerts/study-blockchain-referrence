@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链：定义未来金融与经济新格局/Qu Kuai Lian _Ding Yi Wei Lai Jin Rong Yu Jing Ji Xin Ge Ju/Qu Kuai Lian _Ding Yi Wei Lai Jin Rong Yu Jing Ji Xin Ge Ju - Zhang Jian.jpg" /></div>

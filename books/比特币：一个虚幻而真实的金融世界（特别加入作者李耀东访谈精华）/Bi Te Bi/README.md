@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/比特币：一个虚幻而真实的金融世界（特别加入作者李耀东访谈精华）/Bi Te Bi/Bi Te Bi.jpg" /></div>

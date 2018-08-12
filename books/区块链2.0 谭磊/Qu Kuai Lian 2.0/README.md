@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/区块链2.0 谭磊/Qu Kuai Lian 2.0/Qu Kuai Lian 2.0 - Tan Lei.jpg " /></div>
