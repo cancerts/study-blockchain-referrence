@@ -1,0 +1,1 @@
+<div align=center><img src="https://github.com/cancerts/study-blockchain-referrence/raw/master/books/人工智能时代，一本书读懂区块链金融 (互联网+时代企业管理实战系列)/Ren Gong Zhi Neng Shi Dai ,Yi Ben Shu Du Dong Qu Kuai Lig _Shi Dai Qi Ye Guan Li Shi Zhan Xi Lie ) - Ma Zhao Lin.jpg" /></div>
